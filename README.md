@@ -1,4 +1,4 @@
-![Uploading My Post(2).jpg…]()
+My Post(2).jpg![image](https://user-images.githubusercontent.com/77537787/111042868-0af68b80-8472-11eb-9c67-dd196867000d.png)
 
 
 - 👋 Hi, I’m @mekakil
