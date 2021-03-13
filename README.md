@@ -1,5 +1,5 @@
+![image](https://user-images.githubusercontent.com/77537787/111041815-c0264500-846c-11eb-9fba-42915a0ec377.png)
 
-<img href="https://blog.airpaz.com/wp-content/uploads/Grand-Palace-Feature-Image-1021x550.png">
 - 👋 Hi, I’m @mekakil
 - 👀 I’m interested in sharing and receiving offers as well.
 - 🌱 I’m currently advancing in python.
